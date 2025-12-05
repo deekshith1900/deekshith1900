@@ -6,6 +6,7 @@
 
 # 💫 About Me:
 ![Profile Views](https://komarev.com/ghpvc/?username=deekshith1900&label=Visitors&color=green&style=plastic)
+
  Currently I am B-TECH student at PES UNIVERSITY Bengaluru<br><br>All my projects are available at Github<br><br>Reach out to me at deekshith1900@gmail.com
 
 
