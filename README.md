@@ -4,7 +4,7 @@
 
 <p align="center">A  passionate developer from India ,Karnataka</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+  <img src="https://raw.githubusercontent.com/DeekshithG/DeekshithG/main/coder.gif" width="250" />
 </p>
 
 # 💫 About Me:
