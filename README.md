@@ -3,6 +3,9 @@
 ###
 
 <p align="center">A  passionate developer from India ,Karnataka</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
 
 # 💫 About Me:
 ![Profile Views](https://komarev.com/ghpvc/?username=deekshith1900&label=Visitors&color=green&style=plastic)
