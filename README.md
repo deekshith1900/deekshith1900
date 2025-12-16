@@ -4,7 +4,8 @@
 
 <p align="center">A  passionate developer from India ,Karnataka</p>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTczeG5naTJ0aTczNGNjdTZhbmxqb2xjdWVkZWtsaHY0Yml6Z29rOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 # 💫 About Me:
 
