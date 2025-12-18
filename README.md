@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">A  passionate developer from India ,Karnataka</p>
+<p align="center">A  passionate developer from India ,Karnataka
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)</p>
 <p align="center">
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 # 💫 About Me:
 
  Currently I am B-TECH student at PES UNIVERSITY Bengaluru<br><br>All my projects are available at Github<br><br>Reach out to me at deekshith1900@gmail.com
