@@ -5,7 +5,9 @@
 <p align="center">A  passionate developer from India ,Karnataka
  
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=deekshithg&label=Profile%20Views&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deekshithg&label=Profile%20Views&color=blue&style=flat" />
+</p>
 <p align="center">
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
